@@ -1,14 +1,14 @@
 modLoader="javafml"
 loaderVersion="*"
 license="All rights reserved"
-issueTrackerURL="https://github.com/ricksouth/serilum-mc-mods/labels/Mod:%20Naturally%20Charged%20Creepers"
+issueTrackerURL="https://github.com/Serilum/.issue-tracker/labels/Mod:%20Naturally%20Charged%20Creepers"
 logoFile="icon.png"
 
 [[mods]]
 modId="naturallychargedcreepers"
-version="3.3"
+version="3.4"
 displayName="Naturally Charged Creepers"
-displayURL="https://curseforge.com/minecraft/mc-mods/naturally-charged-creepers"
+displayURL="https://serilum.com/mod/naturally-charged-creepers"
 authors="Rick South"
 description='''Allows creepers to spawn charged naturally, increasing the game's difficulty.
 '''
@@ -21,13 +21,15 @@ If you would like to contribute too, check out https://ricksouth.com/donate. App
 
 [[dependencies.naturallychargedcreepers]]
     modId="collective"
+    type="required"
     mandatory=true
-    versionRange="[7.3,)"
+    versionRange="[7.21,)"
     ordering="NONE"
     side="BOTH"
 
 [[dependencies.naturallychargedcreepers]]
     modId="minecraft"
+    type="required"
     mandatory=true
     versionRange="[1.19.2]"
     ordering="NONE"
