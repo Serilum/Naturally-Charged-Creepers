@@ -1,9 +1,8 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "com.natamus.naturallychargedcreepers.forge.mixin",
+  "package": "com.natamus.naturallychargedcreepers.mixin",
   "compatibilityLevel": "JAVA_17",
-  "refmap": "naturallychargedcreepers_forge.refmap.json",
   "mixins": [
 
   ],
