@@ -1,10 +1,10 @@
-package com.natamus.naturallychargedcreepers;
+package com.serilum.naturallychargedcreepers;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.naturallychargedcreepers.neoforge.config.IntegrateNeoForgeConfig;
-import com.natamus.naturallychargedcreepers.neoforge.events.NeoForgeCreeperChargeEvent;
-import com.natamus.naturallychargedcreepers.util.Reference;
+import com.serilum.naturallychargedcreepers.neoforge.config.IntegrateNeoForgeConfig;
+import com.serilum.naturallychargedcreepers.neoforge.events.NeoForgeCreeperChargeEvent;
+import com.serilum.naturallychargedcreepers.util.Reference;
 import net.neoforged.neoforge.common.NeoForge;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.ModLoadingContext;

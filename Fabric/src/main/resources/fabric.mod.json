@@ -1,29 +1,29 @@
 {
   "schemaVersion": 1,
   "id": "naturallychargedcreepers",
-  "version": "3.6",
+  "version": "3.7",
 
   "name": "Naturally Charged Creepers",
   "description": "Allows creepers to spawn charged naturally, increasing the game's difficulty.",
-  "authors": [ "Rick South" ],
+  "authors": [ "Serilum" ],
   "contact": {
     "homepage": "https://serilum.com/mod/naturally-charged-creepers",
     "sources": "https://github.com/Serilum/Naturally-Charged-Creepers",
     "issues": "https://github.com/Serilum/.issue-tracker/labels/Mod:%20Naturally%20Charged%20Creepers"
   },
 
-  "license": "All Right Reserved",
+  "license": "All Rights Reserved",
   "icon": "icon.png",
 
   "environment": "*",
-  "entrypoints": { "main": [ "com.natamus.naturallychargedcreepers.ModFabric" ], "modmenu": [ "com.natamus.naturallychargedcreepers.fabric.config.IntegrateModMenu" ] },
+  "entrypoints": { "main": [ "com.serilum.naturallychargedcreepers.ModFabric" ], "modmenu": [ "com.serilum.naturallychargedcreepers.fabric.config.IntegrateModMenu" ] },
 
   "depends": {
     "fabricloader": ">=0.18.0",
     "fabric-api": "*",
     "minecraft": ">=26.2",
     "java": ">=25",
-    "collective": ">=8.29"
+    "collective": ">=8.40"
   },
 
   "custom": {
@@ -38,15 +38,14 @@
 	  " ",
 	  "Thank you very much to my Membership sponsors for supporting the development of this mod!",
 	  " ",
-	  "If you would like to contribute too, check out https://serilum.com/donate.",
+	  "If you would like to contribute too, check out https://serilum.com/donate",
 	  " ",
 	  "Membership sponsors:",
 	  " Andrean Olgo",
+	  " AnyankaT",
 	  " aternosorg",
 	  " Cherriesaurus",
-	  " Josh",
 	  " Linda Jansen",
-	  " Michelle Smith",
 	  " MWS",
 	  " Tyler Behl"
   ]
