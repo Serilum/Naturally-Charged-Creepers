@@ -1,6 +1,6 @@
-package com.natamus.naturallychargedcreepers.forge.events;
+package com.serilum.naturallychargedcreepers.forge.events;
 
-import com.natamus.naturallychargedcreepers.events.CreeperChargeEvent;
+import com.serilum.naturallychargedcreepers.events.CreeperChargeEvent;
 import net.minecraftforge.event.entity.EntityJoinLevelEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 

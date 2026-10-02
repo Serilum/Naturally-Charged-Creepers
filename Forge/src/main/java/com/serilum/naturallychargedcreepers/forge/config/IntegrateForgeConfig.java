@@ -1,7 +1,7 @@
-package com.natamus.naturallychargedcreepers.forge.config;
+package com.serilum.naturallychargedcreepers.forge.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.naturallychargedcreepers.util.Reference;
+import com.serilum.naturallychargedcreepers.util.Reference;
 import net.minecraftforge.client.ConfigScreenHandler;
 import net.minecraftforge.fml.ModLoadingContext;
 
