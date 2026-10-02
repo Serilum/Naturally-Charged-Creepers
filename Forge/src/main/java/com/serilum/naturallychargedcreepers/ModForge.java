@@ -1,10 +1,10 @@
-package com.natamus.naturallychargedcreepers;
+package com.serilum.naturallychargedcreepers;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.naturallychargedcreepers.forge.config.IntegrateForgeConfig;
-import com.natamus.naturallychargedcreepers.forge.events.ForgeCreeperChargeEvent;
-import com.natamus.naturallychargedcreepers.util.Reference;
+import com.serilum.naturallychargedcreepers.forge.config.IntegrateForgeConfig;
+import com.serilum.naturallychargedcreepers.forge.events.ForgeCreeperChargeEvent;
+import com.serilum.naturallychargedcreepers.util.Reference;
 import net.minecraftforge.eventbus.api.bus.BusGroup;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.event.lifecycle.FMLLoadCompleteEvent;
@@ -30,7 +30,7 @@ public class ModForge {
 	}
 
 	private void loadComplete(final FMLLoadCompleteEvent event) {
-    	ForgeCreeperChargeEvent.registerEventsInBus();
+		ForgeCreeperChargeEvent.registerEventsInBus();
 	}
 
 	private static void setGlobalConstants() {
