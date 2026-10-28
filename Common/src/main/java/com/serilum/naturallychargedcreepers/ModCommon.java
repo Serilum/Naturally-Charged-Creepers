@@ -1,6 +1,6 @@
-package com.natamus.naturallychargedcreepers;
+package com.serilum.naturallychargedcreepers;
 
-import com.natamus.naturallychargedcreepers.config.ConfigHandler;
+import com.serilum.naturallychargedcreepers.config.ConfigHandler;
 
 public class ModCommon {
 

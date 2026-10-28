@@ -1,9 +1,9 @@
-package com.natamus.naturallychargedcreepers;
+package com.serilum.naturallychargedcreepers;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.naturallychargedcreepers.events.CreeperChargeEvent;
-import com.natamus.naturallychargedcreepers.util.Reference;
+import com.serilum.naturallychargedcreepers.events.CreeperChargeEvent;
+import com.serilum.naturallychargedcreepers.util.Reference;
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.fabric.api.event.lifecycle.v1.ServerEntityEvents;
 import net.minecraft.server.level.ServerLevel;

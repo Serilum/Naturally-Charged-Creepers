@@ -1,8 +1,8 @@
-package com.natamus.naturallychargedcreepers.events;
+package com.serilum.naturallychargedcreepers.events;
 
 import com.natamus.collective.functions.EntityFunctions;
-import com.natamus.naturallychargedcreepers.config.ConfigHandler;
-import com.natamus.naturallychargedcreepers.util.Reference;
+import com.serilum.naturallychargedcreepers.config.ConfigHandler;
+import com.serilum.naturallychargedcreepers.util.Reference;
 import net.minecraft.world.entity.Entity;
 import net.minecraft.world.entity.monster.Creeper;
 import net.minecraft.world.level.Level;

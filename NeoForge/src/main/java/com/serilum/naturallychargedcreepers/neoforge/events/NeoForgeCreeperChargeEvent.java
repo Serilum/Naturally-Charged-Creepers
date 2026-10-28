@@ -1,6 +1,6 @@
-package com.natamus.naturallychargedcreepers.neoforge.events;
+package com.serilum.naturallychargedcreepers.neoforge.events;
 
-import com.natamus.naturallychargedcreepers.events.CreeperChargeEvent;
+import com.serilum.naturallychargedcreepers.events.CreeperChargeEvent;
 import net.neoforged.neoforge.event.entity.EntityJoinLevelEvent;
 import net.neoforged.bus.api.SubscribeEvent;
 

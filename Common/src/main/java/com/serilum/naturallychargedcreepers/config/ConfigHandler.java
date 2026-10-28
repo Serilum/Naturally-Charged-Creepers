@@ -1,7 +1,7 @@
-package com.natamus.naturallychargedcreepers.config;
+package com.serilum.naturallychargedcreepers.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.naturallychargedcreepers.util.Reference;
+import com.serilum.naturallychargedcreepers.util.Reference;
 
 import java.util.Arrays;
 import java.util.HashMap;
